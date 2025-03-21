@@ -10,7 +10,7 @@ C#, Python, JavaScript, TypeScript, NodeJS
 svelte, discord.js, discord.py, express, sql
 
  ### 🌏 I can do these things.
-Korean(Native), English(about 80%), Japanese(less than 30%) and Lead the team
+Korean(Native), English(about 60%), Japanese(less than 10%) and Lead the team
 
  ### ✅ More infomation.
  + I am interseted in Earthquake, Geology, Medical, Railway.
