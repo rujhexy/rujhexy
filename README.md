@@ -1,7 +1,7 @@
  # 👋 Hello!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhya19&count_bg=%23C444E7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visiters&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviewlee305&count_bg=%23C444E7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visiters&edge_flat=false)](https://hits.seeyoufarm.com)
  ## ℹ️ I'm student programmer in South Korea.
-[![Hya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=hya19&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+[![Hya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=viewlee305&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 
  ## ℹ️ I'm leader of HY tinyfloor
 
